@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:58.891454
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:53
 #+TITLE: 佛說甚深大迴向經
 #+PROPERTY: CBETA_ID T17n0825
 #+PROPERTY: ID KR6i0531
